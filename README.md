@@ -1,7 +1,5 @@
 <h2> Boo! It's Erin 👻</h2>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=boo3r1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true" alt="boo3r1n" />
-
 **I'm a Front-end Developer 👨‍💻 who is passionate about reading and traveling.**
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=boo3r1n@gmail.com)](boo3r1n@gmail.com)
@@ -36,6 +34,10 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <br/>
+
+<h3> Last week coding status</h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
