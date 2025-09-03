@@ -12,11 +12,11 @@
 <h3> 🧐 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Pursuing my Bachelor of Computer Science.
-- 💼 &nbsp; Working as a Full-stack Developer at Shanghai AI Lab. I'm building the AI scientific discovery platform <a href="[https://blacktoastmusic.com](https://prismax.opencompass.org.cn/)">SciPrismax</a>
+- 💼 &nbsp; Working as a Full-stack Developer at Shanghai AI Lab. I'm building the AI scientific discovery platform [SciPrismax](https://prismax.opencompass.org.cn/)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boo3r1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" alt="boo3r1n" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boo3r1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" alt="boo3r1n" />
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
