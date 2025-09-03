@@ -5,6 +5,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=boo3r1n@gmail.com)](boo3r1n@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=[https://github.com/boo3r1n)](https://github.com/boo3r1n)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=boo3r1n)
+[![wakatime](https://wakatime.com/badge/user/820622ac-17ff-47a2-b4ff-0f9f54122331.svg)](https://wakatime.com/badge/user/820622ac-17ff-47a2-b4ff-0f9f54122331.svg)
 
 <h3> 🧐 &nbsp;About Me </h3>
 
@@ -31,7 +32,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 
-<h3>Coding status</h3>
+<h3> 📊 &nbsp; Coding status</h3>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boo3r1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" alt="boo3r1n" />
 
