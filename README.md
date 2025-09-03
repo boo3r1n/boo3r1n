@@ -37,6 +37,19 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boo3r1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" alt="boo3r1n" />
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 26 August 2025 - To: 02 September 2025
+
+Total Time: 4 hrs 37 mins
+
+TypeScript   3 hrs 17 mins   █████████████████▓░░░░░░░   71.22 %
+SCSS         1 hr 5 mins     ██████░░░░░░░░░░░░░░░░░░░   23.51 %
+CSV          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+```
+
 <!--END_SECTION:waka-->
 
 
