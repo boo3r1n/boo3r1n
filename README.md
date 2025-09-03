@@ -2,7 +2,7 @@
 
 **I'm a Front-end Developer 👨‍💻 who is passionate about reading and traveling.**
 
-[![Email Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boo3r1n@gmail.com)](mailto:boo3r1n@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:boo3r1n@gmail.com)](mailto:boo3r1n@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=[https://github.com/boo3r1n)](https://github.com/boo3r1n)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=boo3r1n)
 [![wakatime](https://wakatime.com/badge/user/820622ac-17ff-47a2-b4ff-0f9f54122331.svg)](https://wakatime.com/badge/user/820622ac-17ff-47a2-b4ff-0f9f54122331.svg)
