@@ -14,8 +14,6 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boo3r1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" alt="boo3r1n" />
-
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - 🌐 &nbsp;
@@ -33,9 +31,11 @@
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-<br/>
 
-<h3> Last week coding status</h3>
+<h3> Coding status</h3>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boo3r1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" alt="boo3r1n" />
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
