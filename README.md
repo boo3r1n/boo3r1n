@@ -12,7 +12,7 @@
 <h3> 🧐 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Pursuing my Bachelor of Computer Science.
-- 💼 &nbsp; Working as a Full-stack Developer at Shanghai AI Lab. I'm building the AI scientific discovery platform [SciPrismax](https://prismax.opencompass.org.cn/)
+- 💼 &nbsp; Working as a Full-stack Developer at Shanghai AI Lab. I'm building the AI scientific discovery platform [SciPrismax](https://prismax.opencompass.org.cn/).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
