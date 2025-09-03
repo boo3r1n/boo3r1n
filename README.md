@@ -9,7 +9,7 @@
 
 <h3> 🧐 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Pursuing a Master of Engineering in Computer Technology at East China Normal University.
+- 🎓 &nbsp; Pursuing a Master of Computer Science and Technology at East China Normal University.
 - 💼 &nbsp; Working as a Full-stack Developer at Shanghai AI Lab. I'm building the AI scientific discovery platform [SciPrismax](https://prismax.opencompass.org.cn/).
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
