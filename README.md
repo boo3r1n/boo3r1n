@@ -32,7 +32,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 
-<h3> 📊 &nbsp; Coding status</h3>
+<h3> 📊 &nbsp;Coding status</h3>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boo3r1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" alt="boo3r1n" />
 
