@@ -1,12 +1,18 @@
 <h2> Boo! It's Erin 👻</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=boo3r1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&count_private=true" alt="boo3r1n" />
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+**I'm a Front-end Developer 👨‍💻 who is passionate about reading and traveling.**
+
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=boo3r1n@gmail.com)](boo3r1n@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=[https://github.com/boo3r1n](https://github.com/boo3r1n)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=boo3r1n)
+
+
+<h3> 🧐 &nbsp;About Me </h3>
+
+- 🎓 &nbsp; Pursuing my Bachelor of Computer Science.
+- 💼 &nbsp; Working as a Full-stack Developer at Shanghai AI Lab. I'm building the AI scientific discovery platform <a href="[https://blacktoastmusic.com](https://prismax.opencompass.org.cn/)">SciPrismax</a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -31,17 +37,5 @@
 
 <br/>
 
-<a href="https://github.com/boo3r1n">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=boo3r1n&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boo3r1n&theme=buefy&layout=compact" />
-</a>
 
-<br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href=""><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="boo3r1n@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
 
