@@ -38,10 +38,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2025 - To: 02 September 2025
-
-Total Time: 4 hrs 37 mins
-
 TypeScript   3 hrs 17 mins   █████████████████▓░░░░░░░   71.22 %
 SCSS         1 hr 5 mins     ██████░░░░░░░░░░░░░░░░░░░   23.51 %
 CSV          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
