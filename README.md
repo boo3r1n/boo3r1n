@@ -5,7 +5,7 @@
 **I'm a Front-end Developer 👨‍💻 who is passionate about reading and traveling.**
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=boo3r1n@gmail.com)](boo3r1n@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=[https://github.com/boo3r1n](https://github.com/boo3r1n)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=[https://github.com/boo3r1n)](https://github.com/boo3r1n)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=boo3r1n)
 
 
@@ -15,6 +15,8 @@
 - 💼 &nbsp; Working as a Full-stack Developer at Shanghai AI Lab. I'm building the AI scientific discovery platform <a href="[https://blacktoastmusic.com](https://prismax.opencompass.org.cn/)">SciPrismax</a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boo3r1n&theme=vision-friendly-dark&show_icons=true&hide_border=false&layout=compact" alt="boo3r1n" />
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
