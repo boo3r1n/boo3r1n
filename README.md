@@ -39,12 +39,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 27 mins
+Total Time: 4 hrs 13 mins
 
-Python       16 mins         ██████████████▓░░░░░░░░░░   58.05 %
-SSH Config   5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.45 %
-Text         3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
-Markdown     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+Python       1 hr 18 mins    ███████░░░░░░░░░░░░░░░░░░   28.51 %
+Bash         56 mins         █████░░░░░░░░░░░░░░░░░░░░   20.38 %
+Markdown     35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+JavaScript   28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+Other        21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
 ```
 
 <!--END_SECTION:waka-->
